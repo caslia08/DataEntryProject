@@ -1,0 +1,10 @@
+C:\Users\Alia\source\repos\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.exe.config
+C:\Users\Alia\source\repos\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.exe
+C:\Users\Alia\source\repos\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.pdb
+C:\Users\Alia\source\repos\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.Properties.Resources.resources
+C:\Users\Alia\source\repos\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csproj.GenerateResource.cache
+C:\Users\Alia\source\repos\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csproj.CoreCompileInputs.cache
+C:\Users\Alia\source\repos\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.exe
+C:\Users\Alia\source\repos\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.pdb
+C:\Users\Alia\source\repos\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csprojAssemblyReference.cache
+C:\Users\Alia\source\repos\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.FrmDataEntry.resources
